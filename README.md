@@ -1,9 +1,9 @@
 # Repository for final project
+The name of this project is Final Project.
 
-## Project Name
-Final Project: Emotion Detection Application
+## Emotion Detection Application
 
-This project uses the Watson NLP library to detect emotions in text and is deployed as a web application using Flask.
+This project implements an AI-based Emotion Detection web application using Watson NLP and Flask.
 
 ## Features
 - Detects anger, disgust, fear, joy, and sadness
