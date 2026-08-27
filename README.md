@@ -1,11 +1,9 @@
-# Emotion Detection Application
-
-# Final Project: Emotion Detection Application
+# Repository for final project
 
 ## Project Name
-Emotion Detection Application
+Final Project: Emotion Detection Application
 
-This project implements an AI-based Emotion Detection web application using Watson NLP and Flask.
+This project uses the Watson NLP library to detect emotions in text and is deployed as a web application using Flask.
 
 ## Features
 - Detects anger, disgust, fear, joy, and sadness
