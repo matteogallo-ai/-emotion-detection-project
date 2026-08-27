@@ -1,8 +1,8 @@
 # Emotion Detection Application
 
-Final project for the IBM AI Developer coursework.
+# Final Project: Emotion Detection Application
 
-This project implements an AI-based emotion detection web application using Watson NLP and Flask.
+This project implements an AI-based Emotion Detection web application using Watson NLP and Flask.
 
 ## Features
 
